@@ -4,9 +4,9 @@
     "description": "Shop API for Sylius E-Commerce.",
     "license": "MIT",
     "require": {
-        "php": "^7.2",
+        "php": "^7.1",
 
-        "sylius/sylius": "^1.3",
+        "sylius/sylius": "^1.2",
         "league/tactician-bundle": "^1.1",
         "league/tactician-doctrine": "^1.1"
     },
